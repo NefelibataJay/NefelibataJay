@@ -10,4 +10,4 @@ I'm a graduate student a in Yunnan, China, majoring in computer science and psyc
 - WeChat Los5683
 - QQ 1335023688
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NeflibataJay GitHub ID&layout=compact&hide_border=true&langs_count=10)
+
