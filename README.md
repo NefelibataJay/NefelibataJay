@@ -1,4 +1,4 @@
-# :wave: Hi here! I'm Zhou ！
+# :wave: Hi here! I'm Zhou Jie！
 
 I am a graduate student at Kunming University of Science and Technology in Yunnan Province, China, majoring in computer science and psychology. My main research area is utilizing deep learning-based speech recognition technology.
 
