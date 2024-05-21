@@ -1,12 +1,11 @@
-# :wave: Hi here! I'm Zhou Jie！
+# :wave: Hi here! I'm Zhou Jay！
 
 I am a graduate student at Kunming University of Science and Technology in Yunnan Province, China, majoring in computer science and psychology. My main research area is utilizing deep learning-based speech recognition technology.
 
 ## 👨‍💻 Currently learning! 💪
 
 ### :dash: You can reach me at
-- [e-mail](mailto:snoopy_zj@163.com)
-- ins Nefelibata_Zhou
+- e-mail snoopy_zj@163.com
 - WeChat Los5683
 - QQ 1335023688
 
