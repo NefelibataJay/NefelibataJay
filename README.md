@@ -9,4 +9,8 @@ I am a graduate student at Kunming University of Science and Technology in Yunna
 - WeChat Los5683
 - QQ 1335023688
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NefelibataJay&layout=compact)](https://github.com/anuraghazra/github-readme-stats) [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NefelibataJay&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center"> 
+  <img height="140px" src="https://github-readme-stats.vercel.app/api?username=NefelibataJay&hide_title=true&hide_border=true&show_icons=trueline_height=21" />
+  <img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NefelibataJay&hide_title=true&hide_border=true&layout=compact&langs_count=6" />
+</div>
+
