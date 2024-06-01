@@ -1,6 +1,6 @@
 # :wave: Hi here! I'm Zhou Jay！
 
-I am a graduate student at Kunming University of Science and Technology in Yunnan Province, China, majoring in computer science and psychology. My main research area is utilizing deep learning-based speech recognition technology.
+I am a graduate student at Kunming University of Science and Technology in Yunnan Province, China, majoring in computer science and technology. My main research area is speech recognition and classification.
 
 ## 👨‍💻 Currently learning! 💪
 
