@@ -4,7 +4,7 @@
 
 💻 **Back-end engineer** | 🎙 **ASR and TTS** | **AI and DL** | 🚀 **Open Source Enthusiast** 
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 ![Java](https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=springboot&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
@@ -14,10 +14,10 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/-HuggingFace-FFD21F?logo=huggingface&logoColor=black)
 
-### 📫 You can reach me at
-- 📧 e-mail snoopy_zj@163.com
-- 💬 WeChat Los5683
-- 🐧 QQ 1335023688
+## 📫 You can reach me at
+- 📧 e-mail: snoopy_zj@163.com
+- 💬 WeChat: Los5683
+- 🐧 QQ: 1335023688
 
 </div>
 
