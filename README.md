@@ -1,3 +1,5 @@
+<div align="center"> 
+
 # 👋 Hi there, I'm Jay 😀
 
 💻 **Back-end engineer** | 🎙 **ASR and TTS** | **AI and DL** | 🚀 **Open Source Enthusiast** 
@@ -17,6 +19,7 @@
 - 💬 WeChat Los5683
 - 🐧 QQ 1335023688
 
+</div>
 
 <div align="center"> 
   <img height="140px" src="https://github-readme-stats.vercel.app/api?username=NefelibataJay&hide_title=true&hide_border=true&show_icons=trueline_height=21" />
